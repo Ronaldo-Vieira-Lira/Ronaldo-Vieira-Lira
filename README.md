@@ -20,9 +20,6 @@ Olá, eu sou **Ronaldo Vieira**, **Desenvolvedor Front-end** 🚀 moro em Recife
 - 💬 Me pergunte sobre qualquer coisa, adoro responder e ensinar quem quer aprender!
 - 📫 Envie-me um e-mail [Click here](mailto:ronaldovieira.lira@gmail.com)!
 
-
-**Languages and Tools:**  
-
 <h4>Minhas skills <u>Front end</u>:</h4>
 
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
