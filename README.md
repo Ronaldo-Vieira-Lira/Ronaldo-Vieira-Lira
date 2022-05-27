@@ -15,7 +15,7 @@ Olá, eu sou **Ronaldo Vieira**, **Desenvolvedor Front-end** 🚀 moro em Recife
 **Sobre mim!**
 
 - 🌱 . 
-- 🤔 Atualmente estou estudando Java voltado para desenvolvimento Web. 
+- 🤔 Atualmente estou estudando Java. 
 - 💼 Comecei recentemente minha faculdade em Análise e Desenvolvimento de Sistemas.
 - 💬 Me pergunte sobre qualquer coisa, adoro responder e ensinar quem quer aprender!
 - 📫 Envie-me um e-mail [Click here](mailto:ronaldovieira.lira@gmail.com)!
